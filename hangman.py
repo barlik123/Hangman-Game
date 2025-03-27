@@ -1,12 +1,4 @@
-#################################################################
-# FILE : hangman.py
-# WRITER : Bar Likwornik , barlik123 , 325551810
-# EXERCISE : intro2cs2 ex4 2021
-# DESCRIPTION: A very nice game of hangman (although no actual hanged man)
-# STUDENTS I DISCUSSED THE EXERCISE WITH: Uri Friedman
-# WEB PAGES I USED: https://www.geeksforgeeks.org/enumerate-in-python/
-# NOTES: ...
-#################################################################
+
 import hangman_helper
 
 def update_word_pattern(word, pattern, letter):
